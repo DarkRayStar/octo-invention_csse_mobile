@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "csse-ticketing",
+    "slug": "csse-ticketing",
+    "owner":"dulshanalaha",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
